@@ -16,4 +16,6 @@
 
 6. Based on the results, identify low and top-efficient training providers. 
 
+<img width="1059" alt="image" src="https://user-images.githubusercontent.com/60126568/233905701-2d7f0c9d-eaaa-4a77-981f-c2f5c9cb0ec1.png">
+
 7. Based on the DEA results, identify different approaches that can be deployed to make the skilling ecosystem more efficient.  
